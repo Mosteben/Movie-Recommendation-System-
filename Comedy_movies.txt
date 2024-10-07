@@ -1,0 +1,56 @@
+Movie Name: The Great Escape
+Movie Author: Michael Williams
+User Rating: 4.0
+Number of Reviews: 900
+Revenue: 95.7M
+Year: 1963
+Genres: Comedy
+
+Movie Name: The Comedy King
+Movie Author: David Brown
+User Rating: 4.3
+Number of Reviews: 1750
+Revenue: 110.8M
+Year: 2008
+Genres: Comedy
+
+Movie Name: The Laugh Factory
+Movie Author: Emma Roberts
+User Rating: 4.4
+Number of Reviews: 1600
+Revenue: 105.3M
+Year: 2012
+Genres: Comedy
+
+Movie Name: 1000 mabrouk
+Movie Author: mostafa
+User Rating: 2.5
+Number of Reviews: 8000
+Revenue: 55
+Year: 2007
+Genres: Art, Comedy
+
+Movie Name: The Comedy Showdown
+Movie Author: Laura Adams
+User Rating: 4.4
+Number of Reviews: 1850
+Revenue: 95.8M
+Year: 2013
+Genres: Comedy
+
+Movie Name: The Comedy Duo
+Movie Author: Sarah Johnson
+User Rating: 4.2
+Number of Reviews: 1400
+Revenue: 85.4M
+Year: 2009
+Genres: Comedy
+
+Movie Name: The Comedy Club
+Movie Author: Michael Thompson
+User Rating: 4.0
+Number of Reviews: 1350
+Revenue: 80.7M
+Year: 2010
+Genres: Comedy
+

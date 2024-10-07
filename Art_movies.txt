@@ -1,0 +1,57 @@
+Movie Name: Midnight in Paris
+Movie Author: Alice Johnson
+User Rating: 4.5
+Number of Reviews: 1500
+Revenue: 80.2M
+Year: 2011
+Genres: Art
+
+Movie Name: The Artistic Mind
+Movie Author: Emily Green
+User Rating: 4.7
+Number of Reviews: 2100
+Revenue: 150.2M
+Year: 2015
+Genres: Art
+
+Movie Name: 1000 mabrouk
+Movie Author: mostafa
+User Rating: 2.5
+Number of Reviews: 8000
+Revenue: 55
+Year: 2007
+Genres: Art, Comedy
+
+Movie Name: The Artistic Journey
+Movie Author: Robert James
+User Rating: 4.1
+Number of Reviews: 1100
+Revenue: 70.3M
+Year: 2010
+Genres: Art
+
+Movie Name: The Artistic Visionary
+Movie Author: Michael Green
+User Rating: 4.6
+Number of Reviews: 1950
+Revenue: 120.1M
+Year: 2016
+Genres: Art
+
+Movie Name: The Artistic Soul
+Movie Author: Sophie Davis
+User Rating: 4.3
+Number of Reviews: 1650
+Revenue: 95.2M
+Year: 2012
+Genres: Art
+
+Movie Name: The Only Living Boy in New York
+Movie Author: 
+Allan Loeb
+User Rating: 3.4
+Number of Reviews: 4675
+Revenue: 69.3M
+Year: 2017
+Genres: Art
+

@@ -1,0 +1,32 @@
+Movie Name: The Political Drama
+Movie Author: Rachel Carter
+User Rating: 4.5
+Number of Reviews: 2150
+Revenue: 75.9M
+Year: 2019
+Genres: Fiction, Politics
+
+Movie Name: The Political Thriller
+Movie Author: Mark Turner
+User Rating: 4.5
+Number of Reviews: 2200
+Revenue: 130.6M
+Year: 2017
+Genres: Politics
+
+Movie Name: The Political Revolution
+Movie Author: Alex Turner
+User Rating: 4.4
+Number of Reviews: 1800
+Revenue: 100.2M
+Year: 2014
+Genres: Politics
+
+Movie Name: The Political Agenda
+Movie Author: Emma Wright
+User Rating: 4.6
+Number of Reviews: 2200
+Revenue: 125.5M
+Year: 2016
+Genres: Politics
+

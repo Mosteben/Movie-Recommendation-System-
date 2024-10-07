@@ -1,0 +1,48 @@
+Movie Name: The Big Adventure
+Movie Author: John Smith
+User Rating: 4.2
+Number of Reviews: 1230
+Revenue: 120.5M
+Year: 2018
+Genres: Economic
+
+Movie Name: The Economic
+Movie Author: Sarah Lee
+User Rating: 3.8
+Number of Reviews: 800
+Revenue: 45.2M
+Year: 2005
+Genres: Economic
+
+Movie Name: The Economic Impact
+Movie Author: Ryan Johnson
+User Rating: 4.2
+Number of Reviews: 1400
+Revenue: 85.6M
+Year: 2007
+Genres: Economic
+
+Movie Name: The Economic Revolution
+Movie Author: Anna Smith
+User Rating: 4.3
+Number of Reviews: 1700
+Revenue: 105.9M
+Year: 2015
+Genres: Economic
+
+Movie Name: The Economic Miracle
+Movie Author: David Taylor
+User Rating: 4.5
+Number of Reviews: 2050
+Revenue: 110.3M
+Year: 2017
+Genres: Economic
+
+Movie Name: The Economic Future
+Movie Author: Ryan Brown
+User Rating: 4.2
+Number of Reviews: 1500
+Revenue: 90.4M
+Year: 2013
+Genres: Economic
+
